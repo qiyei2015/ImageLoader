@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements AbsListView.OnScr
     private BaseAdapter mImageAdapter;
     private List<String> mUrList = new ArrayList<>();
 
-    
+
     private boolean mIsGridViewIdle = true;
     private int mImageWidth = 0;
     private boolean mIsWifi = false;
